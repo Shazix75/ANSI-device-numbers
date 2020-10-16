@@ -1,0 +1,1188 @@
+{
+  "ansi-list": {
+    "number": [
+      {
+        "code": "1",
+        "en": "Master Element",
+        "ch": "x"
+      },
+      {
+        "code": "2",
+        "en": "Time-delay Starting or Closing Relay",
+        "ch": "x"
+      },
+      {
+        "code": "3",
+        "en": "Checking or Interlocking Relay",
+        "ch": "x"
+      },
+      {
+        "code": "4",
+        "en": "Master Contactor",
+        "ch": "x"
+      },
+      {
+        "code": "5",
+        "en": "Stopping Device",
+        "ch": "x"
+      },
+      {
+        "code": "6",
+        "en": "Starting Circuit Breaker",
+        "ch": "x"
+      },
+      {
+        "code": "7",
+        "en": "Rate of Change Relay",
+        "ch": "x"
+      },
+      {
+        "code": "8",
+        "en": "Control Power Disconnecting Device",
+        "ch": "x"
+      },
+      {
+        "code": "9",
+        "en": "Reversing Device",
+        "ch": "x"
+      },
+      {
+        "code": "10",
+        "en": "Unit Sequence Switch",
+        "ch": "x"
+      },
+      {
+        "code": "11",
+        "en": "Multifunction Device",
+        "ch": "x"
+      },
+      {
+        "code": "12",
+        "en": "Overspeed Device",
+        "ch": "x"
+      },
+      {
+        "code": "13",
+        "en": "Synchronous-Speed Device",
+        "ch": "x"
+      },
+      {
+        "code": "14",
+        "en": "Underspeed Device",
+        "ch": "x"
+      },
+      {
+        "code": "15",
+        "en": "Speed or Frequency Matching Device",
+        "ch": "x"
+      },
+      {
+        "code": "16",
+        "en": "Data Communications Device",
+        "ch": "x"
+      },
+      {
+        "code": "17",
+        "en": "Shunting or Discharge Switch",
+        "ch": "x"
+      },
+      {
+        "code": "18",
+        "en": "Accelerating or Decelerating Device",
+        "ch": "x"
+      },
+      {
+        "code": "19",
+        "en": "Starting-to-Running Transition Contactor",
+        "ch": "x"
+      },
+      {
+        "code": "20",
+        "en": "Electrically-Operated Valve",
+        "ch": "x"
+      },
+      {
+        "code": "21",
+        "en": "Distance Relay",
+        "ch": "x"
+      },
+      {
+        "code": "21G",
+        "en": "Ground Distance",
+        "ch": "x"
+      },
+      {
+        "code": "21P",
+        "en": "Phase Distance",
+        "ch": "x"
+      },
+      {
+        "code": "22",
+        "en": "Equalizer circuit breaker",
+        "ch": "x"
+      },
+      {
+        "code": "23",
+        "en": "Temperature control device",
+        "ch": "x"
+      },
+      {
+        "code": "24",
+        "en": "Volts per hertz relay",
+        "ch": "x"
+      },
+      {
+        "code": "25",
+        "en": "Synchronizing or synchronism-check device",
+        "ch": "x"
+      },
+      {
+        "code": "26",
+        "en": "Apparatus thermal device",
+        "ch": "x"
+      },
+      {
+        "code": "27",
+        "en": "Undervoltage relay",
+        "ch": "x"
+      },
+      {
+        "code": "27P",
+        "en": "Phase Undervoltage",
+        "ch": "x"
+      },
+      {
+        "code": "27S",
+        "en": "DC undervoltage relay",
+        "ch": "x"
+      },
+      {
+        "code": "27TN",
+        "en": "Third Harmonic Neutral Undervoltage",
+        "ch": "x"
+      },
+      {
+        "code": "27TN/59N",
+        "en": "100% Stator Earth Fault",
+        "ch": "x"
+      },
+      {
+        "code": "27X",
+        "en": "Auxiliary Undervoltage",
+        "ch": "x"
+      },
+      {
+        "code": "27 AUX",
+        "en": "Undervoltage Auxiliary Input",
+        "ch": "x"
+      },
+      {
+        "code": "27/27X",
+        "en": "Bus/Line Undervoltage",
+        "ch": "x"
+      },
+      {
+        "code": "27/50",
+        "en": "Accidental Generator Energization",
+        "ch": "x"
+      },
+      {
+        "code": "28",
+        "en": "Flame Detector",
+        "ch": "x"
+      },
+      {
+        "code": "29",
+        "en": "Isolating Contactor",
+        "ch": "x"
+      },
+      {
+        "code": "30",
+        "en": "Annunciator Relay",
+        "ch": "x"
+      },
+      {
+        "code": "31",
+        "en": "Separate Excitation Device",
+        "ch": "x"
+      },
+      {
+        "code": "32",
+        "en": "Directional Power Relay",
+        "ch": "x"
+      },
+      {
+        "code": "32L",
+        "en": "Low Forward Power",
+        "ch": "x"
+      },
+      {
+        "code": "32N",
+        "en": "Wattmetric Zero-Sequence Directional",
+        "ch": "x"
+      },
+      {
+        "code": "32P",
+        "en": "Directional Power",
+        "ch": "x"
+      },
+      {
+        "code": "32R",
+        "en": "Reverse Power",
+        "ch": "x"
+      },
+      {
+        "code": "33",
+        "en": "Position Switch",
+        "ch": "x"
+      },
+      {
+        "code": "34",
+        "en": "Master Sequence Device",
+        "ch": "x"
+      },
+      {
+        "code": "35",
+        "en": "Brush-Operating or Slip-ring Short Circuiting Device",
+        "ch": "x"
+      },
+      {
+        "code": "36",
+        "en": "Polarity or Polarizing Voltage Device",
+        "ch": "x"
+      },
+      {
+        "code": "37",
+        "en": "Undercurrent or Underpower Relay",
+        "ch": "x"
+      },
+      {
+        "code": "37P",
+        "en": "Underpower",
+        "ch": "x"
+      },
+      {
+        "code": "38",
+        "en": "Bearing Protective Device / Bearing Rtd",
+        "ch": "x"
+      },
+      {
+        "code": "39",
+        "en": "Mechanical Condition Monitor",
+        "ch": "x"
+      },
+      {
+        "code": "40",
+        "en": "Field Relay / Loss of Excitation",
+        "ch": "x"
+      },
+      {
+        "code": "41",
+        "en": "Field Circuit Breaker",
+        "ch": "x"
+      },
+      {
+        "code": "42",
+        "en": "Running Circuit Breaker",
+        "ch": "x"
+      },
+      {
+        "code": "43",
+        "en": "Manual Transfer or Selector Device",
+        "ch": "x"
+      },
+      {
+        "code": "44",
+        "en": "Unit Sequence Starting Relay",
+        "ch": "x"
+      },
+      {
+        "code": "45",
+        "en": "Atmospheric Condition Monitor",
+        "ch": "x"
+      },
+      {
+        "code": "46",
+        "en": "Reverse-Phase or Phase Balance Current Relay or Stator Current Unbalance",
+        "ch": "x"
+      },
+      {
+        "code": "47",
+        "en": "Phase-Sequence or Phase Balance Voltage Relay",
+        "ch": "x"
+      },
+      {
+        "code": "48",
+        "en": "Incomplete Sequence Relay / Blocked Rotor",
+        "ch": "x"
+      },
+      {
+        "code": "49",
+        "en": "Machine or Transformer Thermal Relay / Thermal Overload",
+        "ch": "x"
+      },
+      {
+        "code": "49RTD",
+        "en": "RTD Biased Thermal Overload",
+        "ch": "x"
+      },
+      {
+        "code": "50",
+        "en": "Instantaneous Overcurrent Relay",
+        "ch": "x"
+      },
+      {
+        "code": "50BF",
+        "en": "Breaker Failure",
+        "ch": "x"
+      },
+      {
+        "code": "50DD ",
+        "en": "Current Disturbance Detector",
+        "ch": "x"
+      },
+      {
+        "code": "50EF",
+        "en": "End Fault Protection",
+        "ch": "x"
+      },
+      {
+        "code": "50G",
+        "en": "Ground Instantaneous Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "50IG",
+        "en": "Isolated Ground Instantaneous Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "50LR",
+        "en": "Acceleration Time",
+        "ch": "x"
+      },
+      {
+        "code": "50N",
+        "en": "Neutral Instantaneous Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "50NBF",
+        "en": "Neutral Instantaneous Breaker Failure",
+        "ch": "x"
+      },
+      {
+        "code": "50P",
+        "en": "Phase Instantaneous Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "50SG",
+        "en": "Sensitive Ground Instantaneous Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "50SP",
+        "en": "Split Phase Instantaneous Current",
+        "ch": "x"
+      },
+      {
+        "code": "50Q",
+        "en": "Negative Sequence Instantaneous Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "50/27",
+        "en": "Accidental Energization",
+        "ch": "x"
+      },
+      {
+        "code": "50/51",
+        "en": "Instantaneous / Time-delay Overcurrent relay",
+        "ch": "x"
+      },
+      {
+        "code": "50Ns/51Ns",
+        "en": "Sensitive earth-fault protection",
+        "ch": "x"
+      },
+      {
+        "code": "50/74",
+        "en": "Ct Trouble",
+        "ch": "x"
+      },
+      {
+        "code": "50/87",
+        "en": "Instantaneous Differential",
+        "ch": "x"
+      },
+      {
+        "code": "51",
+        "en": "AC Time Overcurrent Relay",
+        "ch": "x"
+      },
+      {
+        "code": "51",
+        "en": "Overload",
+        "ch": "x"
+      },
+      {
+        "code": "51G",
+        "en": "Ground Time Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "51LR",
+        "en": "AC inverse time overcurrent (locked rotor) protection relay",
+        "ch": "x"
+      },
+      {
+        "code": "51N",
+        "en": "Neutral Time Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "51P",
+        "en": "Phase Time Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "51R",
+        "en": "Locked / Stalled Rotor",
+        "ch": "x"
+      },
+      {
+        "code": "51V",
+        "en": "Voltage Restrained Time Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "51Q",
+        "en": "Negative Sequence Time Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "52",
+        "en": "AC circuit breaker",
+        "ch": "x"
+      },
+      {
+        "code": "52a",
+        "en": "AC circuit breaker position (contact open when circuit breaker open)",
+        "ch": "x"
+      },
+      {
+        "code": "52b",
+        "en": "AC circuit breaker position (contact closed when circuit breaker open)",
+        "ch": "x"
+      },
+      {
+        "code": "53",
+        "en": "Exciter or Dc Generator Relay",
+        "ch": "x"
+      },
+      {
+        "code": "54",
+        "en": "Turning Gear Engaging Device",
+        "ch": "x"
+      },
+      {
+        "code": "55",
+        "en": "Power Factor Relay",
+        "ch": "x"
+      },
+      {
+        "code": "56",
+        "en": "Field Application Relay",
+        "ch": "x"
+      },
+      {
+        "code": "57",
+        "en": "Short-Circuiting or Grounding Device",
+        "ch": "x"
+      },
+      {
+        "code": "58",
+        "en": "Rectification Failure Relay",
+        "ch": "x"
+      },
+      {
+        "code": "59",
+        "en": "Overvoltage Relay",
+        "ch": "x"
+      },
+      {
+        "code": "59B",
+        "en": "Bank Phase Overvoltage",
+        "ch": "x"
+      },
+      {
+        "code": "59P",
+        "en": "Phase Overvoltage",
+        "ch": "x"
+      },
+      {
+        "code": "59N",
+        "en": "Neutral Overvoltage",
+        "ch": "x"
+      },
+      {
+        "code": "59NU",
+        "en": "Neutral Voltage Unbalance",
+        "ch": "x"
+      },
+      {
+        "code": "59P",
+        "en": "Phase Overvoltage",
+        "ch": "x"
+      },
+      {
+        "code": "59X",
+        "en": "Auxiliary Overvoltage",
+        "ch": "x"
+      },
+      {
+        "code": "59Q",
+        "en": "Negative Sequence Overvoltage",
+        "ch": "x"
+      },
+      {
+        "code": "60",
+        "en": "Voltage or Current Balance Relay",
+        "ch": "x"
+      },
+      {
+        "code": "60N",
+        "en": "Neutral Current Unbalance",
+        "ch": "x"
+      },
+      {
+        "code": "60P",
+        "en": "Phase Current Unbalance",
+        "ch": "x"
+      },
+      {
+        "code": "61",
+        "en": "Density Switch or Sensor",
+        "ch": "x"
+      },
+      {
+        "code": "62",
+        "en": "Time-Delay Stopping or Opening Relay",
+        "ch": "x"
+      },
+      {
+        "code": "63",
+        "en": "Pressure Switch Detector",
+        "ch": "x"
+      },
+      {
+        "code": "64",
+        "en": "Ground Protective Relay",
+        "ch": "x"
+      },
+      {
+        "code": "64F",
+        "en": "Field Ground Protection",
+        "ch": "x"
+      },
+      {
+        "code": "64R",
+        "en": "Rotor earth fault",
+        "ch": "x"
+      },
+      {
+        "code": "64REF",
+        "en": "Restricted earth fault differential",
+        "ch": "x"
+      },
+      {
+        "code": "64S",
+        "en": "Stator earth fault",
+        "ch": "x"
+      },
+      {
+        "code": "64S",
+        "en": "Sub-harmonic Stator Ground Protection",
+        "ch": "x"
+      },
+      {
+        "code": "64TN",
+        "en": "100% Stator Ground",
+        "ch": "x"
+      },
+      {
+        "code": "65",
+        "en": "Governor",
+        "ch": "x"
+      },
+      {
+        "code": "66",
+        "en": "Notching or Jogging Device/Maximum Starting Rate/Starts Per Hour/Time Between Starts",
+        "ch": "x"
+      },
+      {
+        "code": "67",
+        "en": "AC Directional Overcurrent Relay",
+        "ch": "x"
+      },
+      {
+        "code": "67G",
+        "en": "Ground Directional Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "67N",
+        "en": "Neutral Directional Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "67Ns",
+        "en": "Earth fault directional",
+        "ch": "x"
+      },
+      {
+        "code": "67P",
+        "en": "Phase Directional Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "67SG",
+        "en": "Sensitive Ground Directional Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "67Q",
+        "en": "Negative Sequence Directional Overcurrent",
+        "ch": "x"
+      },
+      {
+        "code": "68",
+        "en": "Blocking Relay / Power Swing Blocking",
+        "ch": "x"
+      },
+      {
+        "code": "69",
+        "en": "Permissive Control Device",
+        "ch": "x"
+      },
+      {
+        "code": "70",
+        "en": "Rheostat",
+        "ch": "x"
+      },
+      {
+        "code": "71",
+        "en": "Liquid Switch",
+        "ch": "x"
+      },
+      {
+        "code": "72",
+        "en": "DC Circuit Breaker",
+        "ch": "x"
+      },
+      {
+        "code": "73",
+        "en": "Load-Resistor Contactor",
+        "ch": "x"
+      },
+      {
+        "code": "74",
+        "en": "Alarm Relay",
+        "ch": "x"
+      },
+      {
+        "code": "75",
+        "en": "Position Changing Mechanism",
+        "ch": "x"
+      },
+      {
+        "code": "76",
+        "en": "DC Overcurrent Relay",
+        "ch": "x"
+      },
+      {
+        "code": "77",
+        "en": "Telemetering Device",
+        "ch": "x"
+      },
+      {
+        "code": "78",
+        "en": "Phase Angle Measuring or Out-of-Step Protective Relay",
+        "ch": "x"
+      },
+      {
+        "code": "78V",
+        "en": "Loss of Mains",
+        "ch": "x"
+      },
+      {
+        "code": "79",
+        "en": "AC Reclosing Relay / Auto Reclose",
+        "ch": "x"
+      },
+      {
+        "code": "80",
+        "en": "Liquid or Gas Flow Relay",
+        "ch": "x"
+      },
+      {
+        "code": "81",
+        "en": "Frequency Relay",
+        "ch": "x"
+      },
+      {
+        "code": "81O",
+        "en": "Over Frequency",
+        "ch": "x"
+      },
+      {
+        "code": "81R",
+        "en": "Rate-of-Change Frequency",
+        "ch": "x"
+      },
+      {
+        "code": "81U",
+        "en": "Under Frequency",
+        "ch": "x"
+      },
+      {
+        "code": "82",
+        "en": "DC Reclosing Relay",
+        "ch": "x"
+      },
+      {
+        "code": "83",
+        "en": "Automatic Selective Control or Transfer Relay",
+        "ch": "x"
+      },
+      {
+        "code": "84",
+        "en": "Operating Mechanism",
+        "ch": "x"
+      },
+      {
+        "code": "85",
+        "en": "Pilot Communications, Carrier or Pilot-Wire Relay",
+        "ch": "x"
+      },
+      {
+        "code": "86",
+        "en": "Lock-Out Relay, Master Trip Relay",
+        "ch": "x"
+      },
+      {
+        "code": "87",
+        "en": "Differential Protective Relay",
+        "ch": "x"
+      },
+      {
+        "code": "87B",
+        "en": "Bus Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87G",
+        "en": "Generator Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87GT",
+        "en": "Generator/Transformer Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87L",
+        "en": "Segregated Line Current Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87LG",
+        "en": "Ground Line Current Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87M",
+        "en": "Motor Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87O",
+        "en": "Overall Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87PC",
+        "en": "Phase Comparison",
+        "ch": "x"
+      },
+      {
+        "code": "87RGF",
+        "en": "Restricted Ground Fault",
+        "ch": "x"
+      },
+      {
+        "code": "87S",
+        "en": "Stator Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87S",
+        "en": "Percent Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87T",
+        "en": "Transformer Differential",
+        "ch": "x"
+      },
+      {
+        "code": "87V",
+        "en": "Voltage Differential",
+        "ch": "x"
+      },
+      {
+        "code": "88",
+        "en": "Auxiliary Motor or Motor Generator",
+        "ch": "x"
+      },
+      {
+        "code": "89",
+        "en": "Line Switch",
+        "ch": "x"
+      },
+      {
+        "code": "90",
+        "en": "Regulating Device",
+        "ch": "x"
+      },
+      {
+        "code": "91",
+        "en": "Voltage Directional Relay",
+        "ch": "x"
+      },
+      {
+        "code": "92",
+        "en": "Voltage And Power Directional Relay",
+        "ch": "x"
+      },
+      {
+        "code": "93",
+        "en": "Field-Changing Contactor",
+        "ch": "x"
+      },
+      {
+        "code": "94",
+        "en": "Tripping or Trip-Free Relay",
+        "ch": "x"
+      },
+      {
+        "code": "95",
+        "en": "For specific applications where other numbers are not suitable",
+        "ch": "x"
+      },
+      {
+        "code": "96",
+        "en": "For specific applications where other numbers are not suitable",
+        "ch": "x"
+      },
+      {
+        "code": "97",
+        "en": "For specific applications where other numbers are not suitable",
+        "ch": "x"
+      },
+      {
+        "code": "98",
+        "en": "For specific applications where other numbers are not suitable",
+        "ch": "x"
+      },
+      {
+        "code": "99",
+        "en": "For specific applications where other numbers are not suitable",
+        "ch": "x"
+      }
+    ],
+    "Suffixes": [
+      {
+        "code": "_1",
+        "en": "Positive-Sequence",
+        "ch": "x"
+      },
+      {
+        "code": "_2",
+        "en": "Negative-Sequence",
+        "ch": "x"
+      },
+      {
+        "code": "A",
+        "en": "Alarm,AuxiliaryPower",
+        "ch": "x"
+      },
+      {
+        "code": "AC",
+        "en": "AlternatingCurrent",
+        "ch": "x"
+      },
+      {
+        "code": "AN",
+        "en": "Anode",
+        "ch": "x"
+      },
+      {
+        "code": "B",
+        "en": "Bus,Battery,orBlower",
+        "ch": "x"
+      },
+      {
+        "code": "BF",
+        "en": "BreakerFailure",
+        "ch": "x"
+      },
+      {
+        "code": "BK",
+        "en": "Brake",
+        "ch": "x"
+      },
+      {
+        "code": "BL",
+        "en": "Block(Valve)",
+        "ch": "x"
+      },
+      {
+        "code": "BP",
+        "en": "Bypass",
+        "ch": "x"
+      },
+      {
+        "code": "BT",
+        "en": "BusTie",
+        "ch": "x"
+      },
+      {
+        "code": "BU",
+        "en": "Backup",
+        "ch": "x"
+      },
+      {
+        "code": "C",
+        "en": "Capacitor,Condenser,Compensator,CarrierCurrent,CaseorCompressor",
+        "ch": "x"
+      },
+      {
+        "code": "CA",
+        "en": "Cathode",
+        "ch": "x"
+      },
+      {
+        "code": "CH",
+        "en": "Check(Valve)",
+        "ch": "x"
+      },
+      {
+        "code": "D",
+        "en": "Discharge(Valve)",
+        "ch": "x"
+      },
+      {
+        "code": "DC",
+        "en": "DirectCurrent",
+        "ch": "x"
+      },
+      {
+        "code": "DCB",
+        "en": "DirectionalComparisonBlocking",
+        "ch": "x"
+      },
+      {
+        "code": "DCUB",
+        "en": "DirectionalComparisonUnblocking",
+        "ch": "x"
+      },
+      {
+        "code": "DD",
+        "en": "DisturbanceDetector",
+        "ch": "x"
+      },
+      {
+        "code": "DUTT",
+        "en": "DirectUnderreachingTransferTrip",
+        "ch": "x"
+      },
+      {
+        "code": "E",
+        "en": "Exciter",
+        "ch": "x"
+      },
+      {
+        "code": "F",
+        "en": "Feeder,Field,Filament,Filter,orFan",
+        "ch": "x"
+      },
+      {
+        "code": "G",
+        "en": "GroundorGenerator",
+        "ch": "x"
+      },
+      {
+        "code": "GC",
+        "en": "GroundCheck",
+        "ch": "x"
+      },
+      {
+        "code": "H",
+        "en": "HeaterorHousing",
+        "ch": "x"
+      },
+      {
+        "code": "L",
+        "en": "LineorLogic",
+        "ch": "x"
+      },
+      {
+        "code": "M",
+        "en": "MotororMetering",
+        "ch": "x"
+      },
+      {
+        "code": "MOC",
+        "en": "MechanismOperatedContact",
+        "ch": "x"
+      },
+      {
+        "code": "N",
+        "en": "NeutralorNetwork",
+        "ch": "x"
+      },
+      {
+        "code": "O",
+        "en": "Over",
+        "ch": "x"
+      },
+      {
+        "code": "P",
+        "en": "PhaseorPump",
+        "ch": "x"
+      },
+      {
+        "code": "PC",
+        "en": "PhaseComparison",
+        "ch": "x"
+      },
+      {
+        "code": "POTT",
+        "en": "Pott:PermissiveOverreachingTransferTrip",
+        "ch": "x"
+      },
+      {
+        "code": "PUTT",
+        "en": "Putt:PermissiveUnderreachingTransferTrip",
+        "ch": "x"
+      },
+      {
+        "code": "R",
+        "en": "Reactor,Rectifier,orRoom",
+        "ch": "x"
+      },
+      {
+        "code": "S",
+        "en": "Synchronizing,Secondary,Strainer,Sump,orSuction(Valve)",
+        "ch": "x"
+      },
+      {
+        "code": "SOTF",
+        "en": "SwitchOnToFault",
+        "ch": "x"
+      },
+      {
+        "code": "T",
+        "en": "TransformerorThyratron",
+        "ch": "x"
+      },
+      {
+        "code": "TD",
+        "en": "TimeDelay",
+        "ch": "x"
+      },
+      {
+        "code": "TDC",
+        "en": "Time-DelayClosingContact",
+        "ch": "x"
+      },
+      {
+        "code": "TDDO",
+        "en": "TimeDelayedRelayCoilDrop-Out",
+        "ch": "x"
+      },
+      {
+        "code": "TDO",
+        "en": "Time-DelayOpeningContact",
+        "ch": "x"
+      },
+      {
+        "code": "TDPU",
+        "en": "TimeDelayedRelayCoilPickup",
+        "ch": "x"
+      },
+      {
+        "code": "THD",
+        "en": "TotalHarmonicDistortion",
+        "ch": "x"
+      },
+      {
+        "code": "TH",
+        "en": "Transformer(High-VoltageSide)",
+        "ch": "x"
+      },
+      {
+        "code": "TL",
+        "en": "Transformer(Low-VoltageSide)",
+        "ch": "x"
+      },
+      {
+        "code": "TM",
+        "en": "Telemeter",
+        "ch": "x"
+      },
+      {
+        "code": "TT",
+        "en": "Transformer(Tertiary-VoltageSide)",
+        "ch": "x"
+      },
+      {
+        "code": "Q",
+        "en": "LubeOil",
+        "ch": "x"
+      },
+      {
+        "code": "W",
+        "en": "Water",
+        "ch": "x"
+      },
+      {
+        "code": "F",
+        "en": "Fuel",
+        "ch": "x"
+      },
+      {
+        "code": "G",
+        "en": "Gas",
+        "ch": "x"
+      },
+      {
+        "code": "U",
+        "en": "UnderorUnit",
+        "ch": "x"
+      },
+      {
+        "code": "X",
+        "en": "Auxiliary",
+        "ch": "x"
+      },
+      {
+        "code": "Z",
+        "en": "Impedance",
+        "ch": "x"
+      }
+    ]
+  }
+}

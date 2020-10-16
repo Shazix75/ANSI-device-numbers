@@ -1,0 +1,1183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ansi-list>
+<number>
+  <code>1</code>
+  <en>Master Element</en>
+  <ch></ch>
+</number>
+<number>
+  <code>2</code>
+  <en>Time-delay Starting or Closing Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>3</code>
+  <en>Checking or Interlocking Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>4</code>
+  <en>Master Contactor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>5</code>
+  <en>Stopping Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>6</code>
+  <en>Starting Circuit Breaker</en>
+  <ch></ch>
+</number>
+<number>
+  <code>7</code>
+  <en>Rate of Change Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>8</code>
+  <en>Control Power Disconnecting Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>9</code>
+  <en>Reversing Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>10</code>
+  <en>Unit Sequence Switch</en>
+  <ch></ch>
+</number>
+<number>
+  <code>11</code>
+  <en>Multifunction Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>12</code>
+  <en>Overspeed Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>13</code>
+  <en>Synchronous-Speed Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>14</code>
+  <en>Underspeed Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>15</code>
+  <en>Speed or Frequency Matching Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>16</code>
+  <en>Data Communications Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>17</code>
+  <en>Shunting or Discharge Switch</en>
+  <ch></ch>
+</number>
+<number>
+  <code>18</code>
+  <en>Accelerating or Decelerating Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>19</code>
+  <en>Starting-to-Running Transition Contactor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>20</code>
+  <en>Electrically-Operated Valve</en>
+  <ch></ch>
+</number>
+<number>
+  <code>21</code>
+  <en>Distance Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>21G</code>
+  <en>Ground Distance</en>
+  <ch></ch>
+</number>
+<number>
+  <code>21P</code>
+  <en>Phase Distance</en>
+  <ch></ch>
+</number>
+<number>
+  <code>22</code>
+  <en>Equalizer circuit breaker</en>
+  <ch></ch>
+</number>
+<number>
+  <code>23</code>
+  <en>Temperature control device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>24</code>
+  <en>Volts per hertz relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>25</code>
+  <en>Synchronizing or synchronism-check device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>26</code>
+  <en>Apparatus thermal device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27</code>
+  <en>Undervoltage relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27P</code>
+  <en>Phase Undervoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27S</code>
+  <en>DC undervoltage relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27TN</code>
+  <en>Third Harmonic Neutral Undervoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27TN/59N</code>
+  <en>100% Stator Earth Fault</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27X</code>
+  <en>Auxiliary Undervoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27 AUX</code>
+  <en>Undervoltage Auxiliary Input</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27/27X</code>
+  <en>Bus/Line Undervoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>27/50</code>
+  <en>Accidental Generator Energization</en>
+  <ch></ch>
+</number>
+<number>
+  <code>28</code>
+  <en>Flame Detector</en>
+  <ch></ch>
+</number>
+<number>
+  <code>29</code>
+  <en>Isolating Contactor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>30</code>
+  <en>Annunciator Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>31</code>
+  <en>Separate Excitation Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>32</code>
+  <en>Directional Power Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>32L</code>
+  <en>Low Forward Power</en>
+  <ch></ch>
+</number>
+<number>
+  <code>32N</code>
+  <en>Wattmetric Zero-Sequence Directional</en>
+  <ch></ch>
+</number>
+<number>
+  <code>32P</code>
+  <en>Directional Power</en>
+  <ch></ch>
+</number>
+<number>
+  <code>32R</code>
+  <en>Reverse Power</en>
+  <ch></ch>
+</number>
+<number>
+  <code>33</code>
+  <en>Position Switch</en>
+  <ch></ch>
+</number>
+<number>
+  <code>34</code>
+  <en>Master Sequence Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>35</code>
+  <en>Brush-Operating or Slip-ring Short Circuiting Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>36</code>
+  <en>Polarity or Polarizing Voltage Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>37</code>
+  <en>Undercurrent or Underpower Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>37P</code>
+  <en>Underpower</en>
+  <ch></ch>
+</number>
+<number>
+  <code>38</code>
+  <en>Bearing Protective Device / Bearing Rtd</en>
+  <ch></ch>
+</number>
+<number>
+  <code>39</code>
+  <en>Mechanical Condition Monitor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>40</code>
+  <en>Field Relay / Loss of Excitation</en>
+  <ch></ch>
+</number>
+<number>
+  <code>41</code>
+  <en>Field Circuit Breaker</en>
+  <ch></ch>
+</number>
+<number>
+  <code>42</code>
+  <en>Running Circuit Breaker</en>
+  <ch></ch>
+</number>
+<number>
+  <code>43</code>
+  <en>Manual Transfer or Selector Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>44</code>
+  <en>Unit Sequence Starting Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>45</code>
+  <en>Atmospheric Condition Monitor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>46</code>
+  <en>Reverse-Phase or Phase Balance Current Relay or Stator Current Unbalance</en>
+  <ch></ch>
+</number>
+<number>
+  <code>47</code>
+  <en>Phase-Sequence or Phase Balance Voltage Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>48</code>
+  <en>Incomplete Sequence Relay / Blocked Rotor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>49</code>
+  <en>Machine or Transformer Thermal Relay / Thermal Overload</en>
+  <ch></ch>
+</number>
+<number>
+  <code>49RTD</code>
+  <en>RTD Biased Thermal Overload</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50</code>
+  <en>Instantaneous Overcurrent Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50BF</code>
+  <en>Breaker Failure</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50DD </code>
+  <en>Current Disturbance Detector</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50EF</code>
+  <en>End Fault Protection</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50G</code>
+  <en>Ground Instantaneous Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50IG</code>
+  <en>Isolated Ground Instantaneous Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50LR</code>
+  <en>Acceleration Time</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50N</code>
+  <en>Neutral Instantaneous Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50NBF</code>
+  <en>Neutral Instantaneous Breaker Failure</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50P</code>
+  <en>Phase Instantaneous Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50SG</code>
+  <en>Sensitive Ground Instantaneous Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50SP</code>
+  <en>Split Phase Instantaneous Current</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50Q</code>
+  <en>Negative Sequence Instantaneous Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50/27</code>
+  <en>Accidental Energization</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50/51</code>
+  <en>Instantaneous / Time-delay Overcurrent relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50Ns/51Ns</code>
+  <en>Sensitive earth-fault protection</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50/74</code>
+  <en>Ct Trouble</en>
+  <ch></ch>
+</number>
+<number>
+  <code>50/87</code>
+  <en>Instantaneous Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51</code>
+  <en>AC Time Overcurrent Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51</code>
+  <en>Overload</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51G</code>
+  <en>Ground Time Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51LR</code>
+  <en>AC inverse time overcurrent (locked rotor) protection relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51N</code>
+  <en>Neutral Time Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51P</code>
+  <en>Phase Time Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51R</code>
+  <en>Locked / Stalled Rotor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51V</code>
+  <en>Voltage Restrained Time Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>51Q</code>
+  <en>Negative Sequence Time Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>52</code>
+  <en>AC circuit breaker</en>
+  <ch></ch>
+</number>
+<number>
+  <code>52a</code>
+  <en>AC circuit breaker position (contact open when circuit breaker open)</en>
+  <ch></ch>
+</number>
+<number>
+  <code>52b</code>
+  <en>AC circuit breaker position (contact closed when circuit breaker open)</en>
+  <ch></ch>
+</number>
+<number>
+  <code>53</code>
+  <en>Exciter or Dc Generator Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>54</code>
+  <en>Turning Gear Engaging Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>55</code>
+  <en>Power Factor Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>56</code>
+  <en>Field Application Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>57</code>
+  <en>Short-Circuiting or Grounding Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>58</code>
+  <en>Rectification Failure Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59</code>
+  <en>Overvoltage Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59B</code>
+  <en>Bank Phase Overvoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59P</code>
+  <en>Phase Overvoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59N</code>
+  <en>Neutral Overvoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59NU</code>
+  <en>Neutral Voltage Unbalance</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59P</code>
+  <en>Phase Overvoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59X</code>
+  <en>Auxiliary Overvoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>59Q</code>
+  <en>Negative Sequence Overvoltage</en>
+  <ch></ch>
+</number>
+<number>
+  <code>60</code>
+  <en>Voltage or Current Balance Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>60N</code>
+  <en>Neutral Current Unbalance</en>
+  <ch></ch>
+</number>
+<number>
+  <code>60P</code>
+  <en>Phase Current Unbalance</en>
+  <ch></ch>
+</number>
+<number>
+  <code>61</code>
+  <en>Density Switch or Sensor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>62</code>
+  <en>Time-Delay Stopping or Opening Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>63</code>
+  <en>Pressure Switch Detector</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64</code>
+  <en>Ground Protective Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64F</code>
+  <en>Field Ground Protection</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64R</code>
+  <en>Rotor earth fault</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64REF</code>
+  <en>Restricted earth fault differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64S</code>
+  <en>Stator earth fault</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64S</code>
+  <en>Sub-harmonic Stator Ground Protection</en>
+  <ch></ch>
+</number>
+<number>
+  <code>64TN</code>
+  <en>100% Stator Ground</en>
+  <ch></ch>
+</number>
+<number>
+  <code>65</code>
+  <en>Governor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>66</code>
+  <en>Notching or Jogging Device/Maximum Starting Rate/Starts Per Hour/Time Between Starts</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67</code>
+  <en>AC Directional Overcurrent Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67G</code>
+  <en>Ground Directional Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67N</code>
+  <en>Neutral Directional Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67Ns</code>
+  <en>Earth fault directional</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67P</code>
+  <en>Phase Directional Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67SG</code>
+  <en>Sensitive Ground Directional Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>67Q</code>
+  <en>Negative Sequence Directional Overcurrent</en>
+  <ch></ch>
+</number>
+<number>
+  <code>68</code>
+  <en>Blocking Relay / Power Swing Blocking</en>
+  <ch></ch>
+</number>
+<number>
+  <code>69</code>
+  <en>Permissive Control Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>70</code>
+  <en>Rheostat</en>
+  <ch></ch>
+</number>
+<number>
+  <code>71</code>
+  <en>Liquid Switch</en>
+  <ch></ch>
+</number>
+<number>
+  <code>72</code>
+  <en>DC Circuit Breaker</en>
+  <ch></ch>
+</number>
+<number>
+  <code>73</code>
+  <en>Load-Resistor Contactor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>74</code>
+  <en>Alarm Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>75</code>
+  <en>Position Changing Mechanism</en>
+  <ch></ch>
+</number>
+<number>
+  <code>76</code>
+  <en>DC Overcurrent Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>77</code>
+  <en>Telemetering Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>78</code>
+  <en>Phase Angle Measuring or Out-of-Step Protective Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>78V</code>
+  <en>Loss of Mains</en>
+  <ch></ch>
+</number>
+<number>
+  <code>79</code>
+  <en>AC Reclosing Relay / Auto Reclose</en>
+  <ch></ch>
+</number>
+<number>
+  <code>80</code>
+  <en>Liquid or Gas Flow Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>81</code>
+  <en>Frequency Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>81O</code>
+  <en>Over Frequency</en>
+  <ch></ch>
+</number>
+<number>
+  <code>81R</code>
+  <en>Rate-of-Change Frequency</en>
+  <ch></ch>
+</number>
+<number>
+  <code>81U</code>
+  <en>Under Frequency</en>
+  <ch></ch>
+</number>
+<number>
+  <code>82</code>
+  <en>DC Reclosing Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>83</code>
+  <en>Automatic Selective Control or Transfer Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>84</code>
+  <en>Operating Mechanism</en>
+  <ch></ch>
+</number>
+<number>
+  <code>85</code>
+  <en>Pilot Communications, Carrier or Pilot-Wire Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>86</code>
+  <en>Lock-Out Relay, Master Trip Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87</code>
+  <en>Differential Protective Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87B</code>
+  <en>Bus Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87G</code>
+  <en>Generator Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87GT</code>
+  <en>Generator/Transformer Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87L</code>
+  <en>Segregated Line Current Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87LG</code>
+  <en>Ground Line Current Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87M</code>
+  <en>Motor Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87O</code>
+  <en>Overall Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87PC</code>
+  <en>Phase Comparison</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87RGF</code>
+  <en>Restricted Ground Fault</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87S</code>
+  <en>Stator Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87S</code>
+  <en>Percent Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87T</code>
+  <en>Transformer Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>87V</code>
+  <en>Voltage Differential</en>
+  <ch></ch>
+</number>
+<number>
+  <code>88</code>
+  <en>Auxiliary Motor or Motor Generator</en>
+  <ch></ch>
+</number>
+<number>
+  <code>89</code>
+  <en>Line Switch</en>
+  <ch></ch>
+</number>
+<number>
+  <code>90</code>
+  <en>Regulating Device</en>
+  <ch></ch>
+</number>
+<number>
+  <code>91</code>
+  <en>Voltage Directional Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>92</code>
+  <en>Voltage And Power Directional Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>93</code>
+  <en>Field-Changing Contactor</en>
+  <ch></ch>
+</number>
+<number>
+  <code>94</code>
+  <en>Tripping or Trip-Free Relay</en>
+  <ch></ch>
+</number>
+<number>
+  <code>95</code>
+  <en>For specific applications where other numbers are not suitable</en>
+  <ch></ch>
+</number>
+<number>
+  <code>96</code>
+  <en>For specific applications where other numbers are not suitable</en>
+  <ch></ch>
+</number>
+<number>
+  <code>97</code>
+  <en>For specific applications where other numbers are not suitable</en>
+  <ch></ch>
+</number>
+<number>
+  <code>98</code>
+  <en>For specific applications where other numbers are not suitable</en>
+  <ch></ch>
+</number>
+<number>
+  <code>99</code>
+  <en>For specific applications where other numbers are not suitable</en>
+  <ch></ch>
+</number>
+<Suffixes>
+  <code>_1</code>
+  <en>Positive-Sequence</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>_2</code>
+  <en>Negative-Sequence</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>A</code>
+  <en>Alarm,AuxiliaryPower</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>AC</code>
+  <en>AlternatingCurrent</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>AN</code>
+  <en>Anode</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>B</code>
+  <en>Bus,Battery,orBlower</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>BF</code>
+  <en>BreakerFailure</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>BK</code>
+  <en>Brake</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>BL</code>
+  <en>Block(Valve)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>BP</code>
+  <en>Bypass</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>BT</code>
+  <en>BusTie</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>BU</code>
+  <en>Backup</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>C</code>
+  <en>Capacitor,Condenser,Compensator,CarrierCurrent,CaseorCompressor</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>CA</code>
+  <en>Cathode</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>CH</code>
+  <en>Check(Valve)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>D</code>
+  <en>Discharge(Valve)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>DC</code>
+  <en>DirectCurrent</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>DCB</code>
+  <en>DirectionalComparisonBlocking</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>DCUB</code>
+  <en>DirectionalComparisonUnblocking</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>DD</code>
+  <en>DisturbanceDetector</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>DUTT</code>
+  <en>DirectUnderreachingTransferTrip</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>E</code>
+  <en>Exciter</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>F</code>
+  <en>Feeder,Field,Filament,Filter,orFan</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>G</code>
+  <en>GroundorGenerator</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>GC</code>
+  <en>GroundCheck</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>H</code>
+  <en>HeaterorHousing</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>L</code>
+  <en>LineorLogic</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>M</code>
+  <en>MotororMetering</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>MOC</code>
+  <en>MechanismOperatedContact</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>N</code>
+  <en>NeutralorNetwork</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>O</code>
+  <en>Over</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>P</code>
+  <en>PhaseorPump</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>PC</code>
+  <en>PhaseComparison</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>POTT</code>
+  <en>Pott:PermissiveOverreachingTransferTrip</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>PUTT</code>
+  <en>Putt:PermissiveUnderreachingTransferTrip</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>R</code>
+  <en>Reactor,Rectifier,orRoom</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>S</code>
+  <en>Synchronizing,Secondary,Strainer,Sump,orSuction(Valve)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>SOTF</code>
+  <en>SwitchOnToFault</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>T</code>
+  <en>TransformerorThyratron</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TD</code>
+  <en>TimeDelay</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TDC</code>
+  <en>Time-DelayClosingContact</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TDDO</code>
+  <en>TimeDelayedRelayCoilDrop-Out</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TDO</code>
+  <en>Time-DelayOpeningContact</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TDPU</code>
+  <en>TimeDelayedRelayCoilPickup</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>THD</code>
+  <en>TotalHarmonicDistortion</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TH</code>
+  <en>Transformer(High-VoltageSide)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TL</code>
+  <en>Transformer(Low-VoltageSide)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TM</code>
+  <en>Telemeter</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>TT</code>
+  <en>Transformer(Tertiary-VoltageSide)</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>Q</code>
+  <en>LubeOil</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>W</code>
+  <en>Water</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>F</code>
+  <en>Fuel</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>G</code>
+  <en>Gas</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>U</code>
+  <en>UnderorUnit</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>X</code>
+  <en>Auxiliary</en>
+  <ch></ch>
+</Suffixes>
+<Suffixes>
+  <code>Z</code>
+  <en>Impedance</en>
+  <ch></ch>
+</Suffixes>
+</ansi-list>
